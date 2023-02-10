@@ -51,10 +51,10 @@
 </style>
 <table>
   <tr>
-    <td width="60%">
+    <td width="50%">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at volutpat ligula. Sed consectetur euismod magna, in tempor leo fringilla sit amet. Ut ut porta dolor. Nam congue, magna ac bibendum iaculis, est lorem tempor tellus, at rutrum ex diam ut ipsum. Integer id dui vel velit dapibus euismod vel vel velit.
     </td>
-    <td width="40%">
+    <td width="50%">
       <div class="card-container">
         <div class="card">
           <div class="dark-card-header">
