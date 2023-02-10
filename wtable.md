@@ -1,17 +1,24 @@
- <meta name="viewport" content="width=device-width, initial-scale=1">           
- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">               
-<div align="center">   
-<table >   
-<tr><td><b>Latest Tweets</b></td>     
-<td><b>daily.dev</b></td></tr>     
-<tr><td>sjdjdjddjdjdjdj</td>       
-<td><table >           
-<tr>               
- <div class="w3-card">                   
- <p>w3-card</p></div></tr><br>
- <tr>sdjdjdjdjdjdjsss</tr>
- </table>       
- </td>     
- </tr>   
- </table>   
- </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+ 
+<div class="container">
+  <h2>Card Header and Footer</h2>
+  <div class="card">
+    <div class="card-header">Header</div>
+    <div class="card-body">Content</div> 
+    <div class="card-footer">Footer</div>
+  </div>
+</div>
+
+</body>
+</html>
