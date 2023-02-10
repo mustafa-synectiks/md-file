@@ -8,7 +8,7 @@
       background-color: #E3E8EE;padding: 5px 10px; border-top-left-radius: 10px;border-top-right-radius: 10px; position: fix;top:0px; width: auto;border:none;
    }
    .dark-right{
-       background-color: #4F566B;color: rgba(255,255,255,05);
+       background-color: #fff;color: rgba(255,255,255,05);
       border-radius: 10px; width: 50%; padding:0px;position: relative;border:none;
    }
    .dark-header{
